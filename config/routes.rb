@@ -1,13 +1,13 @@
 Rails.application.routes.draw do
   namespace :api do
     namespace :v1 do
-      resources :users#, only: [:index, :update]
+      resources :users
     end
   end
 
   namespace :api do
     namespace :v1 do
-      resources :games#, only: [:index, :update]
+      resources :games
     end
   end
 end

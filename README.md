@@ -12,7 +12,9 @@ This is the Ruby on Rails back-end supporting Mental Math.
 
 This RESTful rails back-end was created with Ruby on Rails using a PostgreSQL database.
 
-This project uses Ruby version 2.3.7. To change to the apropriate version: 
+This project uses Ruby version 2.3.7. 
+
+To change to the apropriate version: 
 
 ```
 rvm use 2.3.7 

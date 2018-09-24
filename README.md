@@ -4,13 +4,13 @@ Practice your mental math skills against the clock.
 
 This is the Ruby on Rails back-end supporting Mental Math.
 
-[View the front-end repository here](https://github.com/mattzuzolo/mental-math)
+[Click here to view the front-end repository](https://github.com/mattzuzolo/mental-math)
 
-[See the live demo here](https://mattzuzolo.github.io/mental-math/)
+[Click here to play the live demo](https://mattzuzolo.github.io/mental-math/)
 
 ## Technology
 
-This RESTful rails back-end was created with Ruby on Rails using a PostgreSQL database.
+This RESTful Rails back-end was created with Ruby on Rails using a PostgreSQL database.
 
 This project uses Ruby version 2.3.7. 
 

@@ -14,7 +14,7 @@ This RESTful Rails back-end was created with Ruby on Rails using a PostgreSQL da
 
 This project uses Ruby version 2.3.7. 
 
-To change to the apropriate version: 
+To change to the appropriate version: 
 
 ```
 rvm use 2.3.7 

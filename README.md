@@ -1,24 +1,38 @@
-# README
+# Mental Math
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Practice your mental math skills against the clock.
 
-Things you may want to cover:
+This is the Ruby on Rails back-end supporting Mental Math.
 
-* Ruby version
+[Click here to view the front-end repository](https://github.com/mattzuzolo/mental-math)
 
-* System dependencies
+[Click here to play the live demo](https://mattzuzolo.github.io/mental-math/)
 
-* Configuration
+## Technology
 
-* Database creation
+This RESTful Rails back-end was created with Ruby on Rails using a PostgreSQL database.
 
-* Database initialization
+This project uses Ruby version 2.3.7. 
 
-* How to run the test suite
+To change to the appropriate version: 
 
-* Services (job queues, cache servers, search engines, etc.)
+```
+rvm use 2.3.7 
+```
 
-* Deployment instructions
+### Installing
 
-* ...
+To launch API
+
+```
+rails s
+```
+
+## Authors
+
+* **Matt Zuzolo** - [mattzuzolo](https://mattzuzolo.github.io/)
+* **Steven Chen** - [steven0608](https://github.com/steven0608)
+
+ ## License 
+ 
+ This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
